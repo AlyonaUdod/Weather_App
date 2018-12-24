@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Weather_App/static/media/seach.36b0a32c.png"
   },
   {
-    "revision": "a67741832f81f37d62b4",
+    "revision": "4030a927ff50fd388b0c",
     "url": "/Weather_App/static/css/main.a95045e5.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/Weather_App/static/media/noteList.454bc371.png"
   },
   {
-    "revision": "a67741832f81f37d62b4",
-    "url": "/Weather_App/static/js/main.a6774183.chunk.js"
+    "revision": "4030a927ff50fd388b0c",
+    "url": "/Weather_App/static/js/main.4030a927.chunk.js"
   },
   {
     "revision": "0fe044e6fb8f418c717dd70fce50b471",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/Weather_App/static/css/1.26e45895.chunk.css"
   },
   {
-    "revision": "de02bc7261a2fb94dcb12a5976881530",
+    "revision": "56ce8d704e0a624d156e2280987c5fb4",
     "url": "/Weather_App/index.html"
   }
 ];
