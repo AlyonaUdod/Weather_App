@@ -4,7 +4,7 @@ Weather React App
 
 Features:
 
-Wether App
+Weather App
   - can show you current weather and 5th days weather.
   - can show you weather by city name. You have to enter city name into input. Only latin.
   - can show you weather by click on map. On every click yoг receive weather from this place on Earth.
